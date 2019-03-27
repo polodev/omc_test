@@ -18,6 +18,7 @@ class CreateOmcsTable extends Migration
             $table->string('company');
             $table->integer('age_start');
             $table->integer('age_end');
+            $table->integer('days')->nullable();
             $table->integer('price');
             $table->timestamps();
         });

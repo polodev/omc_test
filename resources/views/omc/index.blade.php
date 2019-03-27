@@ -50,8 +50,6 @@
                 <h2 class="mt-2">Here: </h2>
                 <p>Age 23 will fetch rows -> id 1, 6, 9</p>
                 <p>Age 78 will fetch rows -> id 8, 12</p>
-                <p>I will search database by age like 23, 78</p>
-                <p>Question: How can query in eloquent or mysql in this case</p>
 
             </div>
         </div>
